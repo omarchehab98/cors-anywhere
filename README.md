@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/Rob--W/cors-anywhere.svg?branch=master)](https://travis-ci.org/Rob--W/cors-anywhere)
-[![Coverage Status](https://coveralls.io/repos/github/Rob--W/cors-anywhere/badge.svg?branch=master)](https://coveralls.io/github/Rob--W/cors-anywhere?branch=master)
+[![Build Status](https://travis-ci.org/omarchehab98/cors-anywhere.svg?branch=master)](https://travis-ci.org/omarchehab98/cors-anywhere)
+[![Coverage Status](https://coveralls.io/repos/github/omarchehab98/cors-anywhere/badge.svg?branch=master)](https://coveralls.io/github/omarchehab98/cors-anywhere?branch=master)
 
 **CORS Anywhere** is a NodeJS proxy which adds CORS headers to the proxied request.
 
@@ -160,7 +160,7 @@ node server.js
 
 ## License
 
-Copyright (C) 2013 - 2016 Rob Wu <rob@robwu.nl>
+Copyright (C) 2013 - 2016 Omar Chehab <omarchehab98@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
